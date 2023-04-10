@@ -1,5 +1,11 @@
-# About me
+# Hellou
 
+<div align="center"> 
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" 
+  </img> 
+</div>
+
+## About me
 I am a back-end and cloud developer from Brazil
   - I am currently working at IBM.
   - My hobbies includes reading, gaming, puzzles, chess.
@@ -9,7 +15,7 @@ I am a back-end and cloud developer from Brazil
   - Three movies: Schindler's List, La vita è bella and O Auto da Compadecida.
 
 ## Badges
-<div id="header">
+<div>
 <a target="_blank" href="https://www.credly.com/badges/915c0611-bb8b-4fc1-99b4-2f86fe5bfb37/public_url">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%"/> 
   </a>
