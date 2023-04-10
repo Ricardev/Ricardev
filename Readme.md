@@ -4,8 +4,12 @@ I am a back-end and cloud developer from Brazil
 
 ## Badges
 <div id="header">
-<a><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank" href="https://www.credly.com/badges/915c0611-bb8b-4fc1-99b4-2f86fe5bfb37/public_url" width="10%"/> </a>
-  <img src="./assets/aws_solutions_architect_associate.png" width="10%"/>
+<a target="_blank" href="https://www.credly.com/badges/915c0611-bb8b-4fc1-99b4-2f86fe5bfb37/public_url">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%"/> 
+  </a>
+ <a href="https://www.credly.com/badges/114fb438-38cc-4737-84e6-821a9d6ef49d/public_url" target="_blank"> 
+   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="10%"/> 
+  </a>
 </div>
 
 ## Skills
