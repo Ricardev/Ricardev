@@ -7,7 +7,6 @@
 
 ## About me
 I am a back-end and cloud developer from Brazil
-  - I am currently working at IBM.
   - My hobbies includes reading, gaming, puzzles, chess.
   - I love to learn new things.
   - If I would choose one music, it would be Moonlight Sonata 1st Movement.
