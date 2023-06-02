@@ -76,5 +76,6 @@ I am a back-end and cloud developer from Brazil
   </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> </p>
 </p>
+
 ## Articles
 [Sagas Architecture With .NET](https://medium.com/popcodemobile/sagas-architecture-net-d7d124d8581a)
