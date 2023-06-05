@@ -43,6 +43,9 @@ I am a back-end and cloud developer from Brazil
      href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/Ricardev/Ricardev/blob/master/assets/terraform-svgrepo-com.svg" alt="terraform" width="40" height="40"/> 
   </a>
   <a 
+     href="https://flutter.dev/" target="_blank"> <img src="https://github.com/Ricardev/Ricardev/blob/master/assets/terraform-svgrepo-com.svg" alt="terraform" width="40" height="40"/> 
+  </a>
+  <a 
      target="_blank"> <img src="https://github.com/Ricardev/Ricardev/blob/master/assets/microsoft-sql-server-logo-svgrepo-com.svg" alt="terraform" width="40" height="40"/> 
   </a> 
   <a 
